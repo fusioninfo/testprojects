@@ -1,0 +1,4 @@
+testprojects
+============
+
+git integration redmine
